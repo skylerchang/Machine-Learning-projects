@@ -1,7 +1,6 @@
 Machine-Learning-projects
+
 Content
-
-
 1.Decision Tree
 2.Hierarchical Clustering
 3.K-Nearest Neighbors
