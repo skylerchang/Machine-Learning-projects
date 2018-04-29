@@ -5,7 +5,7 @@ from sklearn import tree
 from sklearn.feature_extraction import DictVectorizer
 
 # Read in the csv file and put features into list of dict and list of class label
-allElectronicsData = open(r'E:\stupideer\Python\machine_learning\Desicion_Tree\AllElectronics.csv', 'rb')
+allElectronicsData = open(r'Adress/AllElectronics.csv', 'rb')
 reader = csv.reader(allElectronicsData)
 headers = reader.next()
 
